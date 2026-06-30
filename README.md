@@ -11,7 +11,7 @@ capaz de detectar amenazas comunes a partir de capturas `.pcap`.
 - 📄 Generación automática de informes con timestamp
 
 ## Output de ejemplo
-![Análisis de tráfico](docs\\screenshots\\output_example.png)
+![Análisis de tráfico](docs/screenshots/output_example.png)
 
 ## Tecnologías
 Python 3 · Scapy · VirusTotal API · python-dotenv
