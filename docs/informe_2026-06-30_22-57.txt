@@ -1,0 +1,19 @@
+==================================================
+INFORME DE ANÁLISIS DE TRÁFICO DE RED
+Fecha: 2026-06-30 22:57
+==================================================
+
+Total de paquetes analizados: 15512
+
+HALLAZGOS DETECTADOS:
+------------------------------
+[ALERTA] Posible escaneo de puertos — 10.2.28.2 contactó 178 puertos distintos
+[OK] Sin anomalías ARP detectadas
+
+REPUTACIÓN DE IPs EXTERNAS:
+------------------------------
+✅ Limpia — 23.64.147.24 (823 paquetes) | Maliciosas: 0 | Sospechosas: 0
+✅ Limpia — 23.218.232.148 (743 paquetes) | Maliciosas: 0 | Sospechosas: 0
+⚠️  MALICIOSA — 45.131.214.85 (274 paquetes) | Maliciosas: 11 | Sospechosas: 2
+✅ Limpia — 150.171.28.11 (256 paquetes) | Maliciosas: 0 | Sospechosas: 0
+✅ Limpia — 23.192.223.23 (176 paquetes) | Maliciosas: 0 | Sospechosas: 0
