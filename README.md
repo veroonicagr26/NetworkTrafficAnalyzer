@@ -10,6 +10,9 @@ capaz de detectar amenazas comunes a partir de capturas `.pcap`.
 - 🌐 Consulta de reputación de IPs externas vía VirusTotal API
 - 📄 Generación automática de informes con timestamp
 
+## Output de ejemplo
+![Análisis de tráfico](docs\\screenshots\\output_example.png)
+
 ## Tecnologías
 Python 3 · Scapy · VirusTotal API · python-dotenv
 
